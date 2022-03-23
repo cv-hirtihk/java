@@ -1,3 +1,7 @@
+// Given a set of number, the aim is to print the number is even - odd or odd - even pattern alternatively in increasing order
+// Ex: Input: 3, 8, 7, 4, 9, 10
+//     Output: 3 4 7 8 9 10
+
 import java.util.Scanner;
 import java.util.Vector;
 import java.util.Arrays;
